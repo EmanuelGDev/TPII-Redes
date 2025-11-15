@@ -1,0 +1,1 @@
+O navegador solicitou a página inicial por meio do comando GET e recebeu sucesso (200 OK), mas ao tentar carregar o favicon não o encontrou (404 Not Found).

@@ -1,0 +1,1 @@
+Aconteceu essa requisição pois o meu computador tentou obter um endereço IP para se conectar novamente na rede após ser desconectado.
